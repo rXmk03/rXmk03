@@ -24,5 +24,6 @@ Python, SQL, PostgreSQL, pandas, scikit-learn, LightGBM, Git, Jupyter
 
 ## Connect
 
-LinkedIn: linkedin.com/in/rmusak/
+LinkedIn: [linkedin.com/in/rmusak/](https://www.linkedin.com/in/rmusak/)
+
 Email: ranamusa04@gmail.com
